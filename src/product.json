@@ -1,0 +1,439 @@
+{
+    "product": [
+      {
+        "name": "JWDA Penant Lamp Brshed Steel",
+        "code": "ProductEarring1",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677815897/sanpham/4_ldi2dq.webp"
+          }
+        ],
+        "description": "The most popular color is yellow which is made by adding silver and some copper. The metals are melted together to form an alloy of the desired color and karat. It is very important that all the ingredients are pure and that the amounts of each are weighed very accurately to prevent porosity, which weakens the alloy.",
+        "price": 453.35,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "JSilver Pearl Earrings",
+        "code": "ProductEarring2",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677815896/sanpham/13_denzjw.webp"
+          }
+        ],
+        "description": "There are two kinds of White Gold: Nickel based and Palladium based. Some people are allergic to Nickel, so Palladium white gold is a good alternative. Palladium white gold is the only legal alloy in Europe. It also self burnishes and keeps a polish.",
+        "price": 450.25,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "10K Gold earrings with ECZ stones",
+        "code": "ProductEarring3",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677815897/sanpham/4_ldi2dq.webp"
+          }
+        ],
+        "description": "The most popular color is yellow which is made by adding silver and some copper. The metals are melted together to form an alloy of the desired color and karat. It is very important that all the ingredients are pure and that the amounts of each are weighed very accurately to prevent porosity, which weakens the alloy.",
+        "price": 453.35,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "Freshwater pearl earrings 14K white gold",
+        "code": "ProductEarring4",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677815896/sanpham/12_stgfdd.webp"
+          }
+        ],
+        "description": "A pair of noble earrings combined with an elegant outfit will create a neat but equally outstanding appearance. With this attractive splendor, pearl jewelry will proudly shine with her every step of the way.",
+        "price": 255.35,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "24K CZK Gold Earrings",
+        "code": "ProductEarring5",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677817288/sanpham/16BT_bes416.png"
+          }
+        ],
+        "description": "For the Eastern people, wedding jewelry has spiritual meaning, blessing the couple's life that both sides of the family send to the young couple, symbolizing full happiness, memento proving eternal love.",
+        "price": 355.55,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "14K CZK White Gold Diamond Earrings",
+        "code": "ProductEarring6",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677817455/sanpham/17BT_uuc5o1.png"
+          }
+        ],
+        "description": "Besides, the brilliant luster of 14K gold will enhance the classic beauty of Asian women. Do not hesitate to mix diamond jewelry with evening gowns or simple, monochrome outfits to complete her luxurious look.",
+        "price": 355.55,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "10K white gold earrings with ECZ stones",
+        "code": "ProductEarring7",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677817652/sanpham/18BT_k2iusg.png"
+          }
+        ],
+        "description": "With perfect beauty not inferior to diamonds, the gold ring with ECZ stone accents will be the assistan to enhance the beauty of every girl who prefers modern and elegant style.",
+        "price": 300.55,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "18K CZK White Gold Diamond Earring Case",
+        "code": "ProductEarring8",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677817814/sanpham/19BT_izjycv.png"
+          }
+        ],
+        "description": "With a little bit of white from the earrings, her style is more impressive, she shines with a proud personality. And to her, it seemed that all pomp was restrained, all softness burst into a radiant glow.",
+        "price": 800.55,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "14K Gold earrings with Akoya pearls",
+        "code": "ProductEarring9",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677818021/sanpham/20BT_b1br5e.png"
+          }
+        ],
+        "description": "In tune but not faded, the combination of jewelry and costumes of the same color will make her more impressive!",
+        "price": 300.55,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "18K Italian White Gold Earrings",
+        "code": "ProductEarring10",
+        "categoryID": "63e10c2f4d112e3e9cdd3034",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677818162/sanpham/21BT_sfrzgi.png"
+          }
+        ],
+        "description": "Exquisite Italian gold products have been stirring up the current fashion trend. Choose an item to enhance your beauty and affirm your own style.",
+        "price": 250.55,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "18K Gold Ring with CZ stone",
+        "code": "ProductRing1",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677818435/sanpham/22R_uddnhg.png"
+          }
+        ],
+        "description": "Possessing a youthful design that resonates with the noble metallic luster of 18K gold, the ring enhances the modern and trendy beauty of the ladies, helping her to look radiantly beautiful when wearing.",
+        "price": 200.55,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "Silver Wanderlust Stone Ring",
+        "code": "ProductRing2",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677818564/sanpham/23R_eeusge.png"
+          }
+        ],
+        "description": "Silver jewelry with CZ stones always possesses charm and has made millions of girls fall in love. Dressed in a unique style and design, the Silver ring belongs to a youthful, disruptive beauty that helps her become radiant and attractive.",
+        "price": 150.55,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "14K White Gold Ring with Akoya Pearl",
+        "code": "ProductRing3",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677819100/sanpham/24R_njohg2.png"
+          }
+        ],
+        "description": "Possessing a design with stylized pattern lines combined with meticulously attached Akoya pearls, the ring wears a majestic beauty, hiding a ravishing charm.",
+        "price": 265.55,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "18K Gold Ring with Citrine",
+        "code": "ProductRing4",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677819316/sanpham/25R_qrey7m.png"
+          }
+        ],
+        "description": "Featuring a hot orange-yellow color, Citrine stone always has a radiant beauty and shines when worn. The ring is crafted from 18K gold and Citrine stone, bringing a luxurious and noble jewelry to the lady.",
+        "price": 270.55,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "18K White Gold Diamond Ring Case",
+        "code": "ProductRing5",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677819542/sanpham/26R_autgd4.png"
+          }
+        ],
+        "description": "With this product, she can combine with many different jewelry or accessories such as necklaces, bracelets, rings to create her own fashion style or give to the ones she loves.",
+        "price": 240.55,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "18K CZK White Gold Diamond Ring",
+        "code": "ProductRing6",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677819814/sanpham/27R_aha7ss.png"
+          }
+        ],
+        "description": "Men's silver ring is designed with a simple but delicate design, bringing an elegant and youthful beauty to him.",
+        "price": 240.55,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "Silver ring with stones",
+        "code": "ProductRing7",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677820243/sanpham/28R_dz7iaw.png"
+          }
+        ],
+        "description": "Couples in love often find ways to preserve happy moments together, they give each other small gifts full of love, give each other sweet words, sincere care... Couple clothes, pair of shoes, pair of jewelry and not to mention a couple ring.",
+        "price": 355.55,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "Pair of Silver Rings with Silver stones",
+        "code": "ProductRing8",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677820463/sanpham/29R_jn74kv.png"
+          }
+        ],
+        "description": "Love is the bond between two strange individual souls becoming close and familiar. When love has sublimated and developed, a couple's ring will be a gift that couples often wear to mark an important milestone in their love.",
+        "price": 555.45,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "18K Gold Ring with Citrine",
+        "code": "ProductRing9",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677820770/sanpham/30R_nowwoc.png"
+          }
+        ],
+        "description": "Featuring a hot orange-yellow color, Citrine stone always has a radiant beauty and shines when worn. The ring is crafted from 18K gold and Citrine stone, bringing a luxurious and noble jewelry to the lady.",
+        "price": 455.45,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "Silver ring with blue butterfly shape",
+        "code": "ProductRing10",
+        "categoryID": "63e10de14d112e3e9cdd3035",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677820984/sanpham/31R_uvabeb.png"
+          }
+        ],
+        "description": "Diamonds are already beautiful, diamond jewelry is even more irresistible. This new combination will definitely make a mark of modern fashion and help you stand out, be confident and attract everyone's admiration.",
+        "price": 455.45,
+        "sale": false,
+        "size": "S"
+      },
+      {
+        "name": "18K Gold pendant with freshwater pearls",
+        "code": "ProductNecklaces1",
+        "categoryID": "63e10df14d112e3e9cdd3036",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677821419/sanpham/32NL_rojlvz.png"
+          }
+        ],
+        "description": "Freshwater pearls, also known as freshwater pearls, are perfect for those who want beautiful round pearls with a mother-of-pearl layer on a reasonable budget.",
+        "price": 350.45,
+        "sale": true,
+        "size": "M"
+      },
+      {
+        "name": "18K Gold pendant with freshwater pearls",
+        "code": "ProductNecklaces2",
+        "categoryID": "63e10df14d112e3e9cdd3036",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677821582/sanpham/33NL_b1dsx8.png"
+          }
+        ],
+        "description": "Following the trend of jewelry in a youthful and personality style, these jewelry items are sure to make waves in the fashion world of young girls. The necklace with completely new design inspiration, coming from emotions will bring her to her own world.",
+        "price": 480.45,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "Silver Pendant",
+        "code": "ProductNecklaces3",
+        "categoryID": "63e10df14d112e3e9cdd3036",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677821720/sanpham/34NL_xgm1l5.png"
+          }
+        ],
+        "description": "Freshwater pearls, also known as freshwater pearls, are perfect for those who want beautiful round pearls with a mother-of-pearl layer on a reasonable budget.",
+        "price": 350.45,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "14K Euphoria White Gold Diamond Pendant",
+        "code": "ProductNecklaces4",
+        "categoryID": "63e10df14d112e3e9cdd3036",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677821919/sanpham/35NL_sq3blw.png"
+          }
+        ],
+        "description": "Inspired by daffodils and borage - two flowers that symbolize the charm but vibrant, diverse colors like the dynamism of the style and personality of the modern woman.",
+        "price": 500.45,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "18K CZK Italian White Gold Pendant",
+        "code": "ProductNecklaces5",
+        "categoryID": "63e10df14d112e3e9cdd3036",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677822027/sanpham/36NL_tvo3hn.png"
+          }
+        ],
+        "description": "The main product is the convergence of modern design style combined with the pinnacle of craftsmanship and will become a new jewelry trend, giving women more choices for their collection.",
+        "price": 450.45,
+        "sale": false,
+        "size": "M"
+      },
+      {
+        "name": "Silver Children's Foot Bracelet",
+        "code": "ProductFootHarness1",
+        "categoryID": "63e10df74d112e3e9cdd3037",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677822430/sanpham/37FH_bbrbh4.png"
+          }
+        ],
+        "description": "Girls are often considered to be followers of beauty, love and like beauty, so you can't ignore wearing bracelets on your beautiful feet.",
+        "price": 200.45,
+        "sale": true,
+        "size": "S"
+      },
+      {
+        "name": "18K Italian Gold Foot Bracelet",
+        "code": "ProductFootHarness2",
+        "categoryID": "63e10df74d112e3e9cdd3037",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677822669/sanpham/38FH_t77lvl.png"
+          }
+        ],
+        "description": "The silver bangle studded with stones is meticulously crafted in every small detail to adorn the gentle and graceful beauty of the girls.",
+        "price": 200.45,
+        "sale": true,
+        "size": "S"
+      },
+      {
+        "name": "1STYLE Silver Foot Bracelet",
+        "code": "ProductFootHarness3",
+        "categoryID": "63e10df74d112e3e9cdd3037",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677822913/sanpham/39FH_vcdygp.png"
+          }
+        ],
+        "description": "Possessing a design that is not too strange but extremely unique, the STYLE bracelet is made of 92.5 silver material, putting on a youthful appearance.",
+        "price": 200.45,
+        "sale": true,
+        "size": "S"
+      },
+      {
+        "name": "1STYLE Silver Foot Bracelet",
+        "code": "ProductAnklet1",
+        "categoryID": "63e10e034d112e3e9cdd3039",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677822913/sanpham/39FH_vcdygp.png"
+          }
+        ],
+        "description": "Possessing a design that is not too strange but extremely unique, the STYLE bracelet is made of 92.5 silver material, putting on a youthful appearance.",
+        "price": 200.45,
+        "sale": true,
+        "size": "S"
+      },
+      {
+        "name": "18K Italian Gold Foot Bracelet",
+        "code": "ProductAnklet2",
+        "categoryID": "63e10df74d112e3e9cdd3037",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677822669/sanpham/38FH_t77lvl.png"
+          }
+        ],
+        "description": "The silver bangle studded with stones is meticulously crafted in every small detail to adorn the gentle and graceful beauty of the girls.",
+        "price": 200.45,
+        "sale": true,
+        "size": "S"
+      },
+      {
+        "name": "18K CZK Italian White Gold Pendant",
+        "code": "ProductBraidJewels1",
+        "categoryID": "63e10dfd4d112e3e9cdd3038",
+        "image": [
+          {
+            "url": "https://res.cloudinary.com/duz8sf2nx/image/upload/v1677822027/sanpham/36NL_tvo3hn.png"
+          }
+        ],
+        "description": "The main product is the convergence of modern design style combined with the pinnacle of craftsmanship and will become a new jewelry trend, giving women more choices for their collection.",
+        "price": 450.45,
+        "sale": false,
+        "size": "M"
+      }
+    ]
+  }
+  
